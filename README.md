@@ -1,4 +1,4 @@
-####✨ **About Me**  
+####✨ About Me  
 Hi there! I'm Janvi Dhonde, a passionate data analyst with a Master's degree in Computer Applications (MCA). My journey in the data world is driven by a deep curiosity for uncovering meaningful insights from data to help make better decisions. I'm skilled in data analysis, problem-solving, and creating impactful visualizations, and I have hands-on experience with Power BI and data analysis.  
 
 ####✔ **Why Work With Me?**  
