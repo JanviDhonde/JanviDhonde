@@ -70,7 +70,6 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/d/d6/Kaggle_logo.png)](https://www.kaggle.com/janvidhonde)  
 [Kaggle Profile](https://www.kaggle.com/janvidhonde)
 
-
 ## Linktree  
 [![Linktree](https://upload.wikimedia.org/wikipedia/commons/e/e6/Linktree_Logo.png)](https://linktr.ee/your-link)  
 [Linktree Profile](https://linktr.ee/your-link)
