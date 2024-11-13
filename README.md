@@ -41,17 +41,7 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 🏅 **CGPA**: 9.42 (A+)  
 📊 **Percentage**: 89.85%  
 - **SGPA**: 8.76, 9.52, 9.87, 9.59, 9.73, 9.00
-
-#### **Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE)**  
-🎓 **Higher Secondary Certification (HSC)**  
-*Jun 2018 - Feb 2019*  
-📉 **Grade**: B (57.38%)
-
-#### **Dnyanganga English Medium School - India**  
-🎓 **Secondary School Certificate (SSC)**  
-*Jan 2016 - Mar 2017*  
-📚 **Grade**: A (64.80%)
-
+  
 ## Let’s Connect! 🌐
 
 📧 **Email**: [janvidhonde@gmail.com](mailto:janvidhonde@gmail.com)  
