@@ -50,23 +50,11 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 🔗 **LinkedIn**: [www.linkedin.com/in/iamjanvidhonde](https://www.linkedin.com/in/iamjanvidhonde)  
 💻 **GitHub**: [janvidhonde](https://github.com/janvidhonde)
 
-### Socials:  
-## 🚀 Social Media & Platforms
+### 🚀 Social Media & Platforms
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/your-profile-link)  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
-
-[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/4/44/HackerRank_logo.png)](https://www.hackerrank.com/your-profile-link)  
-[HackerRank Profile](https://www.hackerrank.com/your-profile-link)
-
-[![Forage](https://www.theforage.com/assets/img/logo-forage.svg)](https://www.theforage.com/profiles/your-profile-link)  
-[Forage Profile](https://www.theforage.com/profiles/your-profile-link)
-
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/8/85/LeetCode_logo.png)](https://leetcode.com/your-profile-link)  
-[LeetCode Profile](https://leetcode.com/your-profile-link)
-
-[![Portfolio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iconic_image_portfolio.svg/120px-Iconic_image_portfolio.svg.png)](https://your-portfolio-link.com)  
-[Portfolio](https://your-portfolio-link.com)
+[LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/4/44/HackerRank_logo.png)](https://www.hackerrank.com/your-profile-link)[HackerRank Profile](https://www.hackerrank.com/your-profile-link)[![Forage](https://www.theforage.com/assets/img/logo-forage.svg)](https://www.theforage.com/profiles/your-profile-link)[Forage Profile](https://www.theforage.com/profiles/your-profile-link)[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/8/85/LeetCode_logo.png)](https://leetcode.com/your-profile-link)[LeetCode Profile](https://leetcode.com/your-profile-link)[![Portfolio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iconic_image_portfolio.svg/120px-Iconic_image_portfolio.svg.png)](https://your-portfolio-link.com)  
+[Portfolio](https://your-portfolio-link.com)[Kaggle](https://www.kaggle.com/janvidhonde)
 
 ## Linktree  
 [![Linktree](https://upload.wikimedia.org/wikipedia/commons/e/e6/Linktree_Logo.png)](https://linktr.ee/your-link)  
