@@ -21,36 +21,36 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 ➠ **Academic Excellence**: Graduated with a **First Class** (74.79%) and **CGPA of 8.09** from **Sinhgad Institute of Management**. 🎓  
 ➠ **Data Science Expertise**: Completed courses in **Data Associate** from **Symbiosis Centre for Distance Learning**, mastering tools like **Tableau**, **SQL**, **Hadoop**, and more. 📚  
 
-## Education & Certifications 🎓
+### Education & Certifications 🎓
 
-### Symbiosis Centre for Distance Learning
-**Data Associate Certification**  
+#### **Symbiosis Centre for Distance Learning**  
+📜 **Data Associate Certification**  
 *Jul 2024 - Sep 2024*  
-Certificate course in Data Associate, with skills in **Python programming**, **data analysis**, and **big data technologies**. Gained expertise in **SQL**, **Tableau**, **Hadoop**, **Apache Spark**, and **Hive**.
+📚 Learned **Python programming**, **data analysis**, and **big data technologies**. Developed expertise in **SQL**, **Tableau**, **Hadoop**, **Apache Spark**, and **Hive**.
 
-### Sinhgad Institute of Management
-**Master of Computer Applications (MCA)**  
+#### **Sinhgad Institute of Management**  
+🎓 **Master of Computer Applications (MCA)**  
 *Oct 2022 - Jun 2024*  
-**CGPA**: 8.09 (First Class)  
-Courses: **Data Analysis**, **Machine Learning**, **Power BI**, **SQL**, **Python**, **Advanced Excel**.  
-- SGPA: 7.68, 7.79, 7.43, 9.46  
+🏆 **CGPA**: 8.09 (First Class)  
+📘 Courses: **Data Analysis**, **Machine Learning**, **Power BI**, **SQL**, **Python**, **Advanced Excel**  
+- **SGPA**: 7.68, 7.79, 7.43, 9.46
 
-### Savitribai Phule Pune University
-**Bachelor of Business Administration in Computer Application (BBA-CA)**  
+#### **Savitribai Phule Pune University**  
+🎓 **Bachelor of Business Administration in Computer Application (BBA-CA)**  
 *Mar 2019 - Oct 2022*  
-**CGPA**: 9.42 (A+)  
-**Percentage**: 89.85%  
-- SGPA: 8.76, 9.52, 9.87, 9.59, 9.73, 9.00  
+🏅 **CGPA**: 9.42 (A+)  
+📊 **Percentage**: 89.85%  
+- **SGPA**: 8.76, 9.52, 9.87, 9.59, 9.73, 9.00
 
-### Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE)
-**Higher Secondary Certification (HSC)**  
+#### **Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE)**  
+🎓 **Higher Secondary Certification (HSC)**  
 *Jun 2018 - Feb 2019*  
-**Grade**: B (57.38%)  
+📉 **Grade**: B (57.38%)
 
-### Dnyanganga English Medium School - India
-**Secondary School Certificate (SSC)**  
+#### **Dnyanganga English Medium School - India**  
+🎓 **Secondary School Certificate (SSC)**  
 *Jan 2016 - Mar 2017*  
-**Grade**: A (64.80%)  
+📚 **Grade**: A (64.80%)
 
 ## Let’s Connect! 🌐
 
