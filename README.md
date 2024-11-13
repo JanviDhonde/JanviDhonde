@@ -23,18 +23,18 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 
 ## Education & Certifications 🎓
 
-#### **Symbiosis Centre for Distance Learning**  
-📜 **Data Associate Certification**  *Jul 2024 - Sep 2024*  
+#### 📜**Symbiosis Centre for Distance Learning**  
+**Data Associate Certification**  *Jul 2024 - Sep 2024*  
 
-#### **Sinhgad Institute of Management**  
-🎓 **Master of Computer Applications (MCA)**  *Oct 2022 - Jun 2024*  
-🏆 - **SGPA**: 7.68, 7.79, 7.43, 9.46   **CGPA**: 8.09 (First Class)  
-📊 **Percentage**: 74.79%
+#### 🎓**Sinhgad Institute of Management**  
+**Master of Computer Applications (MCA)**  *Oct 2022 - Jun 2024*  
+**SGPA**: 7.68, 7.79, 7.43, 9.46   **CGPA**: 8.09 (First Class)  
+**Percentage**: 74.79%
 
-#### **Savitribai Phule Pune University**  
-🎓 **Bachelor of Business Administration in Computer Application (BBA-CA)** *Mar 2019-Oct 2022* 
-🏅 - **SGPA**: 8.76, 9.52, 9.87, 9.59, 9.73, 9.00   **CGPA**: 9.42 (A+)  
-📊 **Percentage**: 89.85%
+#### 🏅 **Savitribai Phule Pune University**  
+**Bachelor of Business Administration in Computer Application (BBA-CA)** *Mar 2019-Oct 2022* 
+**SGPA**: 8.76, 9.52, 9.87, 9.59, 9.73, 9.00   **CGPA**: 9.42 (A+)  
+**Percentage**: 89.85%
   
 ## Let’s Connect! 🌐
 
