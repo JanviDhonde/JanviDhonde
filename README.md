@@ -1,48 +1,29 @@
-💫 About Me:
-Hi there! I’m Janvi Dhonde, a Master of Comuter Application Graduate with a passion for data and analytics. My journey has been driven by a curiosity to uncover patterns and insights that empower decision-making. 🌟
+### 💫 About Me
+Hi there! I'm Janvi Dhonde, a passionate data analyst with a Master's degree in Computer Applications (MCA). My journey in the data world is driven by a deep curiosity for uncovering meaningful insights from data to help make better decisions. I'm skilled in data analysis, problem-solving, and creating impactful visualizations, and I have hands-on experience with Power BI and data analysis.
 
-You need someone who:
+### ✔ Why Work With Me?
+- **Academic & Practical Experience**: With a Master’s in Computer Applications, I have a strong academic foundation and practical experience across various data analysis and machine learning projects.
+- **Impactful Visualizations**: I excel in crafting insightful Power BI dashboards and reports that turn data into strategic decision-making tools.
+- **Hands-on with Tools**: Experienced in tools like Power BI, SQL, Python, Excel, and advanced data techniques, including machine learning and big data analytics.
 
-➠ Holds a Master Degree with Computer Application (MCA) Post Graduation Completed with strong academic background and practical experience? 🎓
-➠ Excels in solving complex problems and creating impactful data visualizations? 🧩
-➠ Brings hands-on experience in Power BI and a proven track record in data analysis? 🚀
+### ✔ What I Offer
+- **Power BI Mastery**: I create dashboards that provide actionable insights.
+- **Data Analysis Expertise**: I’m skilled in exploring and analyzing data to uncover trends and offer business solutions.
+- **Creative Problem-Solving**: I bring innovative solutions to complex challenges, turning data into strategic insights.
 
-✔ Why Work With Me?
+### 📈 Highlights of My Journey:
+- **Power BI Reports**: Developed several impactful dashboards.
+- **Virtual Internships**: Completed 20+ internships, gaining hands-on experience in data analysis, machine learning, and visualization.
+- **Academic Excellence**: Graduated with a First Class (74.79%) and CGPA of 8.09 from Sinhgad Institute of Management.
+- **Data Science Expertise**: Completed courses in Data Associate from Symbiosis Centre for Distance Learning, mastering tools like Tableau, SQL, Hadoop, and more.
 
-I combine technical expertise with a deep enthusiasm for data. My experience spans over 20+ Virtual Internships and Power BI reports  in data science, where I focus on delivering actionable insights through compelling visualizations. I’m committed to helping organizations harness their data for strategic advantage. 🔍
+### 🎓 Education & Certifications:
+- **Symbiosis Centre for Distance Learning**: Data Associate Certification (Python, Big Data Analytics, SQL, Tableau, Hadoop, Apache Spark)
+- **Sinhgad Institute of Management**: MCA in Computer Applications (CGPA: 8.09)
+- **Forage Job Simulations**: Several job simulations with leading companies like PwC, Tata Group, and Accenture in areas like data analytics, machine learning, and Power BI.
 
-✔ Highlights of My Journey:
-
-➠ Developed Power BI reports, delivering high-impact dashboards and insights. 📈
-➠ Completed internships at Forage Virtual Interships of Data Sciences, gaining hands-on experience in data analysis, machine learning, data visualization. 🧑‍💻
-➠ Graduated with an 8.09 CGPA from Sinhagad Institute of Management. 🎓
-➠ Experienced in exploratory data analysis and optimizing data pipelines. 🔎
-➠ Completed Data Associate Courses From Symbosis Centre of Distance Learning. 🎓
-
-✔ What I Offer
-
-➠ Power BI Mastery: Crafting dashboards and reports that drive business decisions. 🛠️
-➠ Data Analysis Expertise: Skilled in exploring data, identifying trends, and translating findings into actionable strategies. 📉
-➠ Creative Problem-Solving: Tackling challenges with innovative and effective solutions. 💡
-
-✔ Explore My Work
-
-Visit my portfolio to see how I’ve transformed data into strategic insights across various projects. 🌐
-
-✔ Let’s Collaborate
-
-If you’re looking for a data enthusiast who can bring clarity and impact to your data challenges, let’s connect! 🤝
-
-📞 Contact Me
-
-Email: janvidhonde@gmail.com ✉️
-Mobile: (+91) 758-857-5196 📱
-Website: janvidhonde.netlify.app/
-
-🌐 Socials:
-LinkedIn  HackerRank  LeetCode  GitHub  
-
-💻 Tech Stack:
-C HTML5 Java JavaScript Python PHP CSS3 AWS Azure Apache WordPress Figma NumPy Pandas scikit-learn TensorFlow Matplotlib Power Bi GitHub Git
-
-📊 GitHub Stats:
+### 🌟 Let’s Connect!
+- **Email**: janvidhonde@gmail.com
+- **Mobile**: (+91) 758-857-5196
+- **Website**: [janvidhonde.netlify.app](http://janvidhonde.netlify.app)
+- **LinkedIn**: [janvidhonde](https://www.linkedin.com/in/janvidhonde)
