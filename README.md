@@ -23,7 +23,7 @@ Hi there! I'm Janvi Dhonde, a passionate Data Analyst with a Master's degree in 
 
 🎓 **Education & Certifications**:  
 
-➠**Symbiosis Centre for Distance Learning**: Data Associate Certification(Python, Big Data Analytics, SQL, Tableau, Hadoop, Apache Spark)📜 <br>
+➠**Symbiosis Centre for Distance Learning**: Data Associate Certification(Python, Big Data Analytics, SQL, Tableau, Hadoop, Apache Spark) <br>
 ➠**Sinhgad Institute of Management**: MCA in Computer Applications (CGPA: 8.09)  🎓 <br>
 ➠**Forage Job Simulations**: Several job simulations with leading companies like PwC, Tata Group, and Accenture in areas like data analytics, machine learning, and Power BI.  💼 <br>
 
