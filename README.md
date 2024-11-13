@@ -7,20 +7,20 @@ Hi there! I'm Janvi Dhonde, a passionate Data Analyst with a Master's degree in 
 ➠**Hands-on with Tools**: Experienced in tools like Power BI, SQL, Python, Excel, and advanced data techniques, including machine learning and big data analytics. 🛠️ <br>
 
 ✔ **What I Offer**    
-➠**Power BI Mastery**: I create dashboards that provide actionable insights. 🔍  
-➠**Data Analysis Expertise**: I’m skilled in exploring and analyzing data to uncover trends and offer business solutions. 📈  
-➠**Creative Problem-Solving**: I bring innovative solutions to complex challenges, turning data into strategic insights.💡
+➠**Power BI Mastery**: I create dashboards that provide actionable insights. 🔍  <br>
+➠**Data Analysis Expertise**: I’m skilled in exploring and analyzing data to uncover trends and offer business solutions. 📈  <br>
+➠**Creative Problem-Solving**: I bring innovative solutions to complex challenges, turning data into strategic insights.💡 <br>
 
 🌟 **Highlights of My Journey**:  
 ➠**Power BI Reports**: Developed several impactful dashboards.  📊
-➠**Virtual Internships**: Completed 20+ internships, gaining hands-on experience in data analysis, machine learning, and visualization.  💼
-➠**Academic Excellence**: Graduated with a First Class (74.79%) and CGPA of 8.09 from Sinhgad Institute of Management.  🎓 
-➠**Data Science Expertise**: Completed courses in Data Associate from Symbiosis Centre for Distance Learning, mastering tools like Tableau, SQL, Hadoop, and more. 📚 
+➠**Virtual Internships**: Completed 20+ internships, gaining hands-on experience in data analysis, machine learning, and visualization.  💼 <br>
+➠**Academic Excellence**: Graduated with a First Class (74.79%) and CGPA of 8.09 from Sinhgad Institute of Management.  🎓 <br>
+➠**Data Science Expertise**: Completed courses in Data Associate from Symbiosis Centre for Distance Learning, mastering tools like Tableau, SQL, Hadoop, and more. 📚 <br>
 
 🎓 **Education & Certifications**:  
-➠**Symbiosis Centre for Distance Learning**: Data Associate Certification (Python, Big Data Analytics, SQL, Tableau, Hadoop, Apache Spark)  📜 
-➠**Sinhgad Institute of Management**: MCA in Computer Applications (CGPA: 8.09)  🎓 
-➠**Forage Job Simulations**: Several job simulations with leading companies like PwC, Tata Group, and Accenture in areas like data analytics, machine learning, and Power BI.  💼 
+➠**Symbiosis Centre for Distance Learning**: Data Associate Certification (Python, Big Data Analytics, SQL, Tableau, Hadoop, Apache Spark)  📜 <br>
+➠**Sinhgad Institute of Management**: MCA in Computer Applications (CGPA: 8.09)  🎓 <br>
+➠**Forage Job Simulations**: Several job simulations with leading companies like PwC, Tata Group, and Accenture in areas like data analytics, machine learning, and Power BI.  💼 <br>
 
 🌟 **Let’s Connect!**  
 📧 Email: janvidhonde@gmail.com  
