@@ -2,9 +2,9 @@
 Hi there! I'm Janvi Dhonde, a passionate Data Analyst with a Master's degree in Computer Applications (MCA). My journey in the data world is driven by a deep curiosity for uncovering meaningful insights from data to help make better decisions. I'm skilled in data analysis, problem-solving, and creating impactful visualizations, and I have hands-on experience with Power BI and data analysis.  
 
 ✔ **Why Work With Me?**  
-➠**Academic & Practical Experience**: With a Master’s in Computer Applications, I have a strong academic foundation and practical experience across various data analysis and machine learning projects. 📚 
-➠**Impactful Visualizations**: I excel in crafting insightful Power BI dashboards and reports that turn data into strategic decision-making tools. 📊
-➠**Hands-on with Tools**: Experienced in tools like Power BI, SQL, Python, Excel, and advanced data techniques, including machine learning and big data analytics. 🛠️ 
+➠**Academic & Practical Experience**: With a Master’s in Computer Applications, I have a strong academic foundation and practical experience across various data analysis and machine learning projects. 📚 /n
+➠**Impactful Visualizations**: I excel in crafting insightful Power BI dashboards and reports that turn data into strategic decision-making tools. 📊/n
+➠**Hands-on with Tools**: Experienced in tools like Power BI, SQL, Python, Excel, and advanced data techniques, including machine learning and big data analytics. 🛠️ /n
 
 ✔ **What I Offer**    
 ➠**Power BI Mastery**: I create dashboards that provide actionable insights. 🔍  
