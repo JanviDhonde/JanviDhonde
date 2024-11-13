@@ -17,7 +17,7 @@ Hi there! I'm Janvi Dhonde, a passionate Data Analyst with a Master's degree in 
 🌟 **Highlights of My Journey**:  
 
 ➠**Power BI Reports**: Developed several impactful dashboards.  📊 <br>
-➠**Virtual Internships**: Completed 20+ internships, gaining hands-on experience in data analysis, machine learning, and visualization.  💼 <br>
+➠**Virtual Internships**: Completed 22+ internships, gaining hands-on experience in data analysis, machine learning, and visualization.  💼 <br>
 ➠**Academic Excellence**: Graduated with a First Class (74.79%) and CGPA of 8.09 from Sinhgad Institute of Management.  🎓 <br>
 ➠**Data Science Expertise**: Completed courses in Data Associate from Symbiosis Centre for Distance Learning, mastering tools like Tableau, SQL, Hadoop, and more. 📚 <br>
 
