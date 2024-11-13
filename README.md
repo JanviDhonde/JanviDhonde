@@ -32,7 +32,7 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 **Percentage**: 74.79%
 
 #### 🏅 **Savitribai Phule Pune University**  
-**Bachelor of Business Administration in Computer Application (BBA-CA)** *Mar 2019-Oct 2022* 
+**Bachelor of Business Administration in Computer Application (BBA-CA)** *Mar 2019 - Oct 2022* 
 **SGPA**: 8.76, 9.52, 9.87, 9.59, 9.73, 9.00   **CGPA**: 9.42 (A+)  
 **Percentage**: 89.85%
   
