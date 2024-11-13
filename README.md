@@ -31,5 +31,5 @@ Hi there! I'm Janvi Dhonde, a passionate Data Analyst with a Master's degree in 
 
 📧 Email: janvidhonde@gmail.com  
 📱 Mobile: (+91) 758-857-5196  
-🌐 Website: janvidhonde.netlify.app  
+🌐 Website: www.janvidhonde.netlify.app  
 🔗 LinkedIn: www.linkedin.com/in/iamjanvidhonde 
