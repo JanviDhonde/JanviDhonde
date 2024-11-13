@@ -62,5 +62,5 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 
 ## Top Contributed Repo 🔝  
 [Link to Top Contributed Repo]  
-A brief description of the repository, your role, and what you learned or contributed. ✨
+A brief description of the repository, your role, and what you learned or contributed.. ✨
 
