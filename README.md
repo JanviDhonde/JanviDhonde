@@ -21,7 +21,7 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 ➠ **Academic Excellence**: Graduated with a **First Class** (74.79%) and **CGPA of 8.09** from **Sinhgad Institute of Management**. 🎓  
 ➠ **Data Science Expertise**: Completed courses in **Data Associate** from **Symbiosis Centre for Distance Learning**, mastering tools like **Tableau**, **SQL**, **Hadoop**, and more. 📚  
 
-### Education & Certifications 🎓
+## Education & Certifications 🎓
 
 #### **Symbiosis Centre for Distance Learning**  
 📜 **Data Associate Certification**  
