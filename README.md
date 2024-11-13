@@ -47,10 +47,9 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 📧 **Email**: [janvidhonde@gmail.com](mailto:janvidhonde@gmail.com)  
 📱 **Mobile**: (+91) 758-857-5196  
 🌐 **Website**: [janvidhonde.netlify.app](https://janvidhonde.netlify.app)  
-🔗 **LinkedIn**: [www.linkedin.com/in/iamjanvidhonde](https://www.linkedin.com/in/iamjanvidhonde)  
-💻 **GitHub**: [janvidhonde](https://github.com/janvidhonde)
+🔗 **Linktree**: [https://linktr.ee/your-link]
 
-### 🚀 Social Media & Platforms
+## 🚀 Social Media & Platforms
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/your-profile-link)  
 [LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)  [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/4/44/HackerRank_logo.png)](https://www.hackerrank.com/your-profile-link)  
@@ -59,8 +58,8 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 [LeetCode Profile](https://leetcode.com/your-profile-link)  [![Portfolio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iconic_image_portfolio.svg/120px-Iconic_image_portfolio.svg.png)](https://your-portfolio-link.com)[Portfolio](https://your-portfolio-link.com)  [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/d/d6/Kaggle_logo.png)](https://www.kaggle.com/janvidhonde)  
 [Kaggle Profile](https://www.kaggle.com/janvidhonde)
 
-## Linktree  
-[![Linktree](https://upload.wikimedia.org/wikipedia/commons/e/e6/Linktree_Logo.png)](https://linktr.ee/your-link)[Linktree Profile](https://linktr.ee/your-link)
+## Tech Stack 💻
+Languages
 
 ## GitHub Stats 📊
 
