@@ -115,6 +115,6 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 ![](https://github-contributor-stats.vercel.app/api?username=janvidhonde&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 ### GitHub Stats: 📊 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janvidhonde&show_icons=true&locale=en&layout=compact" alt="janvidhonde" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janvidhonde&show_icons=true&locale=en" alt="janvidhonde" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvidhonde&theme=light" alt="janvidhonde" /></p>
+![](https://github-readme-stats.vercel.app/api?username=janvidhonde&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=janvidhonde&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=janvidhonde&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
