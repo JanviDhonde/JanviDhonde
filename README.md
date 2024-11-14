@@ -48,57 +48,64 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/iamjanvidhonde" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/janvidhonde2083" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="HackerRank" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
+
   <!-- Forage -->
   <a href="https://www.theforage.com/profile/R5dwK9gxpuRLKHpbX" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Forage_Logo.png/120px-The_Forage_Logo.png" alt="Forage" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/Forage-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQ3IiBoZWlnaHQ9IjIyMiIgdmlld0JveD0iMCAwIDE0NyAyMjIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEzX2ZfMzMpIj48cGF0aCBkPSJNMTQ3IDExMS4wMDdDMTQ3IDIwMS4zNzUgODAuNzMzIDIyMiAxNC41MzcgMTk3LjU2OUM3Ljg4OCAxOTUuMzUyIDEuODgzIDE5MS44NDQgMC4wMDAwMjA2NTIzIDE4OC40NzhMMC4wMDAxNzU5MyAxMzQuNzgyQzAuMDAyNTgxNDk0IDExMS40MyAxOS4wODIgOTUuNTgyIDQxLjU0IDk1LjU4Mkg3OS4wMzdDMTQ2LjI4NSA5NS41ODIgMTQ3IDEzNS4zMzUgMTQ3IDExMS4wMDdaIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE0NyAxMTMuMTg2VjExMS4wMDdDMTQ3IDEzNS4zMzUgMTQ2LjI4NSA5NS41ODIgNzkuMDM3IDk1LjU4Mkg0MS41NDRDMjAuMDE5IDk1LjU4MiAwLjY5NDAzNzM3OCAxMTAuMDQgMC4wMDAwMjA2NTIzIDEzMC44NzJDMTIuNjg2NCA5OC4xNTg1IDQ1LjMxMTEgODAuMTk3NiA3OS4wMzcgODAuMTk3NkgxMTcuMjRDMTE5LjQwMyA4MC4xOTc2IDEyMS4xNDkgODAuMjEwNiAxMjMuMTYyIDgwLjI4MDhDMTI1LjE3NCA4MC4zNTExIDEyNy4xMjggODAuNDg1NSAxMjkuMDYyIDgwLjY3MzFDMTI5Ljc5NiA4MC43MjQ5IDEzMC41MjIgODAuNzc5MyAxMzEuMjI3IDgwLjgzNjZDMTE5Ljg4MiA0My4yNDgyIDc5LjAzNyAyMS45NTg2IDQxLjU0IDIxLjk1ODZDMTkuNjYgMjEuOTU4NiA1LjI5OTgyIDI5LjYwNzMgMC4wMDAwMjA2NTIzIDQxLjkzMTZMMCAzNi42MzcyQzMuMjgyMzE4MSAxNy4yMjg4IDEyLjc1NjQgMC41MDQ1Mjk1IDE0Ljg4MzUgMGMzLjUwNzE0NjYgMC42NjAzNiA1LjI1ODUgMi4zOTU1IDUuODkyMyA1Ljg5NDJDMjAuODMyNSAzLjUyNjMyIDI2LjAwODQgMi40MDE5NiAzMS4xMzcyIDMuMTE4MDlDNzIuNTkzNCA5LjQ4MTU4IDk5LjcwMzggMzQuNjk5NSA5OS43MDM4IDY5LjE2OTVWMTAyLjEyM0MxMTkuMDQ2IDkxLjgyMjEgMTM5LjU0MSA5Ny4zODk2IDE0NyAxMTMuMTg2WiIgZmlsbD0iIzBBOEZFOSIvPjwvZz48L3N2Zz4=" alt="Forage" />
   </a>
+
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/janvidhonde" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kaggle_logo.svg/1024px-Kaggle_logo.svg.png" alt="Kaggle" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  
   <!-- LeetCode -->
   <a href="https://leetcode.com/janvidhonde" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/LeetCode_logo_2021.png" alt="LeetCode" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  
   <!-- Portfolio -->
   <a href="https://yourportfolio.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_website.svg/1024px-Logo_website.svg.png" alt="Portfolio" height="30" width="30" />
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
+
 ## 📊 GitHub Stats
 
+
 <p align="left">
-  <!-- Profile Views -->
-  <a href="https://visitcount.itsvg.in">
-    <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=janvidhonde&style=for-the-badge&color=ff9900"/>
-  </a>
+   <!-- Profile Views -->
+   <a href="https://visitcount.itsvg.in">
+      <img alt="profile views" title="Profile Views" src="https://custom-icon-badges.demolab.com/github/stars/janvidhonde?color=ff9900&style=for-the-badge&labelColor=ff9900&logo=eye&label=Profile%20Views&logoColor=white&borderColor=000000&textColor=white"/>
+   </a> 
   
-  <!-- Total Stars -->
-  <a href="https://github.com/janvidhonde?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/janvidhonde?color=green&style=for-the-badge"/>
-  </a>
+   <!-- Total Stars on GitHub -->
+   <a href="https://github.com/janvidhonde?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/janvidhonde?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white&borderColor=000000&textColor=white"/>
+   </a>
 
-  <!-- Followers -->
-  <a href="https://github.com/janvidhonde?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/janvidhonde?color=ff4500&style=for-the-badge"/>
-  </a>
+   <!-- Following -->
+   <a href="https://github.com/janvidhonde?tab=following">
+      <img alt="Following" title="Following on GitHub" src="https://img.shields.io/github/followers/janvidhonde?style=for-the-badge&label=Following&logo=github&logoColor=white&color=blue&labelColor=blue"/>
+   </a>
 
-  <!-- Repositories -->
-  <a href="https://github.com/janvidhonde?tab=repositories">
-    <img alt="Repositories" title="Repositories on GitHub" src="https://img.shields.io/badge/Repositories-Click--Here-red?style=for-the-badge&logo=github"/>
-  </a>
+   <!-- Followers -->
+   <a href="https://github.com/janvidhonde?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/janvidhonde?color=ff4500&labelColor=ff4500&style=for-the-badge&logo=person&label=Followers&logoColor=white&borderColor=000000&textColor=white"/>
+   </a>
 
-  <!-- Following -->
-  <a href="https://github.com/janvidhonde?tab=following">
-    <img alt="Following" title="Following on GitHub" src="https://img.shields.io/badge/Following-Click--Here-blue?style=for-the-badge&logo=github"/>
-  </a>
+   <!-- Repositories -->
+<a href="https://github.com/janvidhonde?tab=repositories">
+   <img alt="Repositories" title="Repositories on GitHub" src="https://img.shields.io/badge/Repositories-30-0D76A8?style=for-the-badge&logo=github&labelColor=0D76A8&color=0D76A8&logoColor=white&font=thin"/>
+</a>
 </p>
 
 ## Tech Stack: 💻
