@@ -44,11 +44,25 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 🔗 **Linktree**: [https://linktr.ee/your-link]
 
 ## 🚀 Social Media & Platforms [![LinkedIn][![HackerRank][![Forage][![LeetCode][![Portfolio][![Kaggle]
-<a href="https://linkedin.com/in/www.linkedin.com/in/iamjanvidhondewww.linkedin.com/in/iamjanvidhonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iamjanvidhondewww.linkedin.com/in/iamjanvidhonde" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/janvidhonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/janvidhonde" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/janvidhonde2083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/janvidhonde2083" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/janvidhonde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/janvidhonde/" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/iamjanvidhonde" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/janvidhonde2083" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HackerRank_logo.svg/1024px-HackerRank_logo.svg.png" alt="HackerRank" height="30" width="40" />
+</a>
+<a href="https://www.theforage.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Forage_Logo.png/120px-The_Forage_Logo.png" alt="Forage" height="30" width="40" />
+</a>
+<a href="https://www.kaggle.com/janvidhonde" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kaggle_logo.svg/1024px-Kaggle_logo.svg.png" alt="Kaggle" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/janvidhonde" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/LeetCode_logo_2021.png" alt="LeetCode" height="30" width="40" />
+</a>
+<a href="https://yourportfolio.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_website.svg/1024px-Logo_website.svg.png" alt="Portfolio" height="30" width="40" />
+</a>
+
 
 [![](https://visitcount.itsvg.in/api?id=janvidhonde&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
