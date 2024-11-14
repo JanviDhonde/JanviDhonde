@@ -79,9 +79,9 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/janvidhonde?color=ff4500&labelColor=ff4500&style=for-the-badge&logo=person&label=Follow&logoColor=white&borderColor=000000&textColor=white"/>
 </a>
 
-<!-- Following on GitHub with improved visibility -->
-<a href="https://github.com/JanviDhonde?tab=following">
-   <img alt="following" title="Following on GitHub" src="https://custom-icon-badges.demolab.com/github/following/janvidhonde?color=0077b5&labelColor=0077b5&style=for-the-badge&logo=person&label=Following&logoColor=white&borderColor=000000&textColor=white"/>
+<!-- Repositories on GitHub with improved visibility -->
+<a href="https://github.com/janvidhonde?tab=repositories">
+   <img alt="repositories" title="Repositories on GitHub" src="https://custom-icon-badges.demolab.com/github/repositories/janvidhonde?color=ff4500&labelColor=ff4500&style=for-the-badge&logo=repo&label=Repositories&logoColor=white&borderColor=000000&textColor=white"/>
 </a>
 </p>
 
