@@ -49,6 +49,7 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 </a>
 <a href="https://www.hackerrank.com/janvidhonde2083" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HackerRank_logo.svg/1024px-HackerRank_logo.svg.png" alt="HackerRank" height="30" width="40" />
+</a>
 <a href="https://www.theforage.com/profile/R5dwK9gxpuRLKHpbX" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Forage_Logo.png/120px-The_Forage_Logo.png" alt="Forage" height="30" width="40" />
 </a>
