@@ -117,9 +117,5 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 ### GitHub Stats: 📊 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janvidhonde&show_icons=true&locale=en&layout=compact" alt="janvidhonde" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janvidhonde&show_icons=true&locale=en" alt="janvidhonde" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvidhonde&" alt="janvidhonde" /></p>
 
