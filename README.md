@@ -43,46 +43,62 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 🌐 **Website**: [janvidhonde.netlify.app](https://janvidhonde.netlify.app)  
 🔗 **Linktree**: [https://linktr.ee/your-link]
 
-## 🚀 Social Media & Platforms [![LinkedIn][![HackerRank][![Forage][![LeetCode][![Portfolio][![Kaggle]
-<a href="https://linkedin.com/in/iamjanvidhonde" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/janvidhonde2083" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HackerRank_logo.svg/1024px-HackerRank_logo.svg.png" alt="HackerRank" height="30" width="40" />
-</a>
-<a href="https://www.theforage.com/profile/R5dwK9gxpuRLKHpbX" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Forage_Logo.png/120px-The_Forage_Logo.png" alt="Forage" height="30" width="40" />
-</a>
-<a href="https://www.kaggle.com/janvidhonde" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kaggle_logo.svg/1024px-Kaggle_logo.svg.png" alt="Kaggle" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/janvidhonde" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/LeetCode_logo_2021.png" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://yourportfolio.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_website.svg/1024px-Logo_website.svg.png" alt="Portfolio" height="30" width="40" />
-</a>
+## 🚀 Social Media & Platforms
 
-##hhhhh<p align="left">
-   <!-- Profile Views (using visitcount) with a darker yellow for balance -->
-   <a href="https://visitcount.itsvg.in">
-      <img alt="profile views" title="Profile Views" src="https://custom-icon-badges.demolab.com/github/stars/janvidhonde?color=ff9900&style=for-the-badge&labelColor=ff9900&logo=eye&label=Profile%20Views&logoColor=white&borderColor=000000&textColor=white"/>
-   </a> 
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/iamjanvidhonde" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/janvidhonde2083" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="HackerRank" height="30" width="30" />
+  </a>
+  <!-- Forage -->
+  <a href="https://www.theforage.com/profile/R5dwK9gxpuRLKHpbX" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Forage_Logo.png/120px-The_Forage_Logo.png" alt="Forage" height="30" width="30" />
+  </a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/janvidhonde" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kaggle_logo.svg/1024px-Kaggle_logo.svg.png" alt="Kaggle" height="30" width="30" />
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/janvidhonde" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/LeetCode_logo_2021.png" alt="LeetCode" height="30" width="30" />
+  </a>
+  <!-- Portfolio -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_website.svg/1024px-Logo_website.svg.png" alt="Portfolio" height="30" width="30" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <!-- Profile Views -->
+  <a href="https://visitcount.itsvg.in">
+    <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=janvidhonde&style=for-the-badge&color=ff9900"/>
+  </a>
   
-   <!-- Total Stars on GitHub with a stronger color contrast -->
-   <a href="https://github.com/janvidhonde?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/janvidhonde?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white&borderColor=000000&textColor=white"/>
-   </a>
+  <!-- Total Stars -->
+  <a href="https://github.com/janvidhonde?tab=repositories&sort=stargazers">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/janvidhonde?color=green&style=for-the-badge"/>
+  </a>
 
-<!-- Followers on GitHub with stronger color contrast -->
-<a href="https://github.com/janvidhonde?tab=followers">
-   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/janvidhonde?color=ff4500&labelColor=ff4500&style=for-the-badge&logo=person&label=Follow&logoColor=white&borderColor=000000&textColor=white"/>
-</a>
+  <!-- Followers -->
+  <a href="https://github.com/janvidhonde?tab=followers">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/janvidhonde?color=ff4500&style=for-the-badge"/>
+  </a>
 
-<!-- Repositories on GitHub with improved visibility -->
-<a href="https://github.com/janvidhonde?tab=repositories">
-   <img alt="repositories" title="Repositories on GitHub" src="https://custom-icon-badges.demolab.com/github/repositories/janvidhonde?color=ff4500&labelColor=ff4500&style=for-the-badge&logo=repo&label=Repositories&logoColor=white&borderColor=000000&textColor=white"/>
-</a>
+  <!-- Repositories -->
+  <a href="https://github.com/janvidhonde?tab=repositories">
+    <img alt="Repositories" title="Repositories on GitHub" src="https://img.shields.io/badge/Repositories-Click--Here-red?style=for-the-badge&logo=github"/>
+  </a>
+
+  <!-- Following -->
+  <a href="https://github.com/janvidhonde?tab=following">
+    <img alt="Following" title="Following on GitHub" src="https://img.shields.io/badge/Following-Click--Here-blue?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ## Tech Stack: 💻
