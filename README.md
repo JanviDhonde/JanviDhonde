@@ -80,9 +80,9 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/janvidhonde?color=ff4500&labelColor=ff4500&style=for-the-badge&logo=person-add&label=Follow&logoColor=black&borderColor=4caf50&textColor=black"/>
    </a>
 
-   <!-- Following on GitHub with stronger color contrast -->
-   <a href="https://github.com/janvidhonde?tab=following">
-      <img alt="following" title="Following on GitHub" src="https://custom-icon-badges.demolab.com/github/following/janvidhonde?color=1f8e8f&labelColor=107e7d&style=for-the-badge&logo=person-add&label=Following&logoColor=black&borderColor=4caf50&textColor=black"/>
+   <!-- Following on GitHub with improved visibility -->
+   <a href="https://github.com/JanviDhonde?tab=following">
+      <img alt="following" title="Following on GitHub" src="https://custom-icon-badges.demolab.com/github/following/janvidhonde?color=0077b5&labelColor=0077b5&style=for-the-badge&logo=person-add&label=Following&logoColor=white&borderColor=4caf50&textColor=black"/>
    </a>
 </p>
 
