@@ -72,9 +72,9 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
   </a>
   
   <!-- Portfolio -->
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://janvidhonde.github.io/Portfolio/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
+</a>
 </p>
 
 
