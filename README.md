@@ -39,9 +39,9 @@ Hi there! I’m **Janvi Dhonde**, a passionate **Data Analyst** with a **Master'
 ## Let’s Connect! 🌐
 
 📧 **Email**: [janvidhonde@gmail.com](mailto:janvidhonde@gmail.com)  
-📱 **Mobile**: (+91) 758-857-5196  
-🌐 **Website**: [janvidhonde.netlify.app](https://janvidhonde.netlify.app)  
-🔗 **Linktree**: [https://linktr.ee/your-link]
+📱 **Mobile**: (+91) 758-857-5196    
+🌐 **Website**: [janvidhonde.github.io/Portfolio](https://janvidhonde.github.io/Portfolio/)<br>
+🔗 **Linktree**: [https://linktr.ee/Janvi_Dhonde](https://linktr.ee/Janvi_Dhonde)
 
 ## 🚀 Social Media & Platforms
 
